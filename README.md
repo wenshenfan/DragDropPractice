@@ -10,4 +10,4 @@
 
 ## 專案演示影片
 
-[![專案演示]((https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/wnnt3if9m3A))
+[![專案演示影片]((https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/wnnt3if9m3A))
